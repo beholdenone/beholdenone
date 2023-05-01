@@ -1,4 +1,4 @@
-# Welcome to the Crucible, I'm [Beholdenkey](https://github.com/beholdenkey)
+# Welcome to the Crucible
 
 ## 🚀 Innovator, Entrepreneur, and Developer
 
@@ -6,7 +6,7 @@
 
 Feel free to reach out to me for collaboration, mentorship, or just a friendly chat!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/beholdenkey/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/beholdenone/)
 
 ### 🌟 What I'm passionate about
 
@@ -40,10 +40,10 @@ Feel free to reach out to me for collaboration, mentorship, or just a friendly c
 
 ### :fire: My Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beholdenkey&show_icons=true&theme=codeSTACKr&count_private=true")](https://github.com/beholdenkey/beholdenkey)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=beholdenone&show_icons=true&theme=codeSTACKr&count_private=true")](https://github.com/beholdenone/beholdenone)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=beholdenkey&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=beholdenone&theme=elegant&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beholdenkey&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/beholdenkey/beholdenkey)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=beholdenone&theme=elegant&custom_title=Contribution%20Graph&hide_border=true&bg_color=%20)](https://github.com/beholdenone/beholdenone)
 
 ---
