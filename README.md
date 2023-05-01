@@ -2,8 +2,6 @@
 
 ## 🚀 Innovator, Entrepreneur, and Developer
 
-- 🌱 I’m building my portfolio of automated solutions and applications - check out my organization: [Crucible-Labs](https://github.com/crucible-labs)
-
 Feel free to reach out to me for collaboration, mentorship, or just a friendly chat!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/beholdenone/)
